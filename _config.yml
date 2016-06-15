@@ -1,0 +1,21 @@
+# Site settings
+title: One line (of code) at a time...
+header-img: img/home-bg.png
+email: efrainperezjr@live.com
+copyright_name: jinstrider2000
+description: > # this means to ignore newlines until "baseurl:"
+  Recapturing a love for programming
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: Efrain_P_Jr
+github_username:  jinstrider2000
+learn_profile: jinstrider2000
+email_username: efrainperezjr@live.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
