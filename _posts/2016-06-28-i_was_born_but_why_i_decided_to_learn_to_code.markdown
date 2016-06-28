@@ -5,7 +5,7 @@ date:   2016-06-27 20:40:26 -0400
 ---
 
 
-This is my first blog post ever.  I've never been one for sharing my thoughts on the Internet; my Facebook profile is essentially deserted and I primarily use Twitter as an RSS feed.  I did however join the #savetwinpeaks social media campaign.  Now, I don't know if hashtag campaigns **ever** really make any difference, but either way, we are getting new episodes of Twin Peaks next spring (!) and the correlation/causation mystery remains.  All that to say, I'm not used to doing this sort of writing, on the Internet, or anywhere!  Now, this first entry is about why I've decided to code for a living, and I'll get to that, but first, an important preamble to that story...
+This is my first blog post ever.  I've never been one for sharing my thoughts on the Internet; my Facebook profile is essentially deserted and I primarily use Twitter as an RSS feed.  I did however join the #savetwinpeaks social media campaign.  Now, I don't know if hashtag campaigns **ever** really make any difference, but either way, we are getting new episodes of Twin Peaks next spring (!), and the correlation/causation mystery remains.  All that to say, I'm not used to doing this sort of writing, on the Internet, or anywhere!  Now, this first entry is about why I've decided to code for a living, and I'll get to that, but first, an important preamble to that story...
 
 **I Was Born...**
 
