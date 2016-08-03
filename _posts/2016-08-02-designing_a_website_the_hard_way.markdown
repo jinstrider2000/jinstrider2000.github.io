@@ -5,7 +5,7 @@ date:   2016-08-01 20:55:55 -0400
 ---
 
 
-I just made my first website, and man it was fun...and hard.  I made it for my church, "Love, Power and Grace" in the Bronx.  We're an old church that just celebrated 55 years of service this past month, but we've never had a website before (not a real one anyway. I do remember some old Geocities-"Dreamweaver-y" thing we tried in the late 90's/early 00's, *but I really wish I didn't*).  So, being an ambitious Learn student, I decided to take a break from my labs and put what I've learned so far into action, resulting in http://lpgchurch.org
+I just made my first website, and man it was fun...and hard.  I made it for my church, "Love, Power and Grace" in the Bronx.  We're an old church that just celebrated 55 years of service this past month, but we've never had a website before (not a real one anyway. I do remember some old Geocities-"Dreamweaver-y" thing we tried in the late 90's/early 00's, *but I really wish I didn't*).  So, being an ambitious Learn student, I decided to take a break from my labs and put what I've learned so far into action, resulting in [lpgchurch.org] (http://lpgchurch.org)
 
 ## Sir, how much for a .org with a side of .com?
 
