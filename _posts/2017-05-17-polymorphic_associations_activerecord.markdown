@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  Polymorphic Associations (ActiveRecord)
-date:   2017-05-17 07:38:27 +0000
+date:   2017-05-17 03:38:28 -0400
 ---
 
 I just finished my Sinatra Portfolio project. It's called Fitness Tracker, and man did it take a **LONG** time to code. Too darn long!  But, it was time well spent, and very instructive. Firstly, I really wanted to test my ability to make a "nice" looking web app, so I used Bootstrap to get started, then added my own styling. This took some time initially, as I had never used Bootstrap before (beyond what's in the CSS portion of this curriculum, anyway), but once I overcame the learning curve, Bootstrap proved fairly simple (at least for my purposes).  Secondly, in a late-stage development, I decided to add a feature to my app that I couldn't figure out how to implement...that is, until I learned about polymorphic associations in ActiveRecord. So, what is a polymorphic association, and how did it fit my development needs?
 
 ## Conventional Thinking
 
-First, let's discuss how ActiveRecord associations conventionally work. When you declare an ActiveRecord association using the normal naming conventions, you are declaring the unique "class" of object the association will except.  For example, in my app, I declared a *User* model that "has many" objects of class `Exercise` and `Food` associated with it:
+First, let's discuss how ActiveRecord associations conventionally work. When you declare an ActiveRecord association using the normal naming conventions, you are declaring the unique "class" of object the association will except.  For example, in my app, I declared a `User` model that "has many" objects of class `Exercise` and `Food` associated with it:
 
 ```
 class User < ActiveRecord::Base
@@ -48,4 +48,4 @@ class Exercise < ActiveRecord::Base
 end
 ```
 
-The `Food` class was similar. So, there it is, polymorphic associations in ActiveRecord. This feature of ActiveRecord really came in handy for realizing my vision for my app.  So, thanks polymorphism, you rock! (But you also suck because you made me read TONS of StackOverflow threads to understand you :)
+The `Food` class was similar. So, there it is, polymorphic associations in ActiveRecord. This feature of ActiveRecord really came in handy for realizing my vision for my app.  So, thanks polymorphism, you rock! (But you also suck because you made me read **TONS** of StackOverflow threads to understand you :)
