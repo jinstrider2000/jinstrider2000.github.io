@@ -48,4 +48,4 @@ class Exercise < ActiveRecord::Base
 end
 ```
 
-The `Food` class was similar. So, there it is, polymorphic associations in ActiveRecord. This feature of ActiveRecord really came in handy for realizing my vision for my app.  So, thanks polymorphism, you rock! (But you also suck because you made me read **TONS** of StackOverflow threads to understand you :)
+The `Food` class was similar. So, there it is, polymorphic associations in ActiveRecord. This feature of ActiveRecord really came in handy for realizing my vision for my app.  So, thanks polymorphism, you rock! (But you also suck because you made me read **TONS** of StackOverflow threads to understand you :) [local IDE within Windows using VirtualBox and Xubuntu.](http://michaelries.info/2017/04/27/setting_up_a_local_ide_in_windows/)
