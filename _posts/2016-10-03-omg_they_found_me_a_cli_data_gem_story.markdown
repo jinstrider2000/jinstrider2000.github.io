@@ -38,4 +38,4 @@ And this came out:
 
 Praise the Lord!  Now I can sleep.
 
-P.S.  If you're interested, you can get RomLoader going to https://rubygems.org/gems/romloader or https://github.com/jinstrider2000/romloader-cli-gem or by typing `$ gem install romloader` in Bash. 
+P.S.  If you're interested, you can get RomLoader going to https://rubygems.org/gems/romloader or https://github.com/jinstrider2000/romloader-cli-gem or by typing `$ gem install romloader` in Bash. [local IDE within Windows using VirtualBox and Xubuntu.](http://michaelries.info/2017/04/27/setting_up_a_local_ide_in_windows/)
