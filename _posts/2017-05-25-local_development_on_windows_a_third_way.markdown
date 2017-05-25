@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Local Development on Windows (A Third Way)
-date:   2017-05-25 22:48:21 +0000
+date:   2017-05-25 18:48:22 -0400
 ---
 
 
@@ -28,7 +28,7 @@ First, make sure you download the [Windows 10 Creators Update](https://support.m
 10. Accept the Terms of Use, then the Bash Shell will download to your computer and a shortcut will be created on your desktop.
 11. Create a UNIX user profile, and that's it.
 
-## Setting up your learn environment
+## Setting up your Learn environment
 This shouldn't be too hard, because since this is just a Ubuntu subsystem running on Windows all the instructions that apply to setting up a Ubuntu local environment for Learn.co should apply. And they do, with some exceptions, which I'll note.  First, you have to view the instructions [here](https://learn.co/manual_setup)...but before you click, since the instructions displayed depend on the type of computer you're on, you need to trick the Learn.co server into thinking you're on a Linux computer.  You do this by changing your browser's *user-agent* field, which is easily done with the [User-Agent-Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-g/ffhkkpnppgnfaobgihpdblnhmmbodake) extension for Chrome.  Now, instructions in hand, just open the bash shell, and follow the instructions, with these modifications:
 
 1. The Learn instructions say to make sure the bash shell is setup as a *login shell*, this is so  the *.bash_profile* (located in your ~ dir) will run at start up.  *Bash on Ubuntu on Windows* defaults to an *interactive shell*, which means the *.bashrc* (also in ~) will run instead.  This isn't a big issue, as the primary script you want (loading rvm every time you open a terminal) is automatically added to *.bashrc* when you download rvm.  Either way, all the extra things the Learn.co *.bash_profile* offers (including the cute heart prompt) can be copied into *.bashrc* with nano (command line text editor) if you want them. Learn.co's *.bash_profile* is discussed at **Step 11**, and can be viewed [here](https://raw.githubusercontent.com/flatiron-school/dotfiles/master/linux_bash_profile)
