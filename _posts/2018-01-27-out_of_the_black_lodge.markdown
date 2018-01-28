@@ -23,7 +23,7 @@ The first feature addition was to have *Twitter-like* relationships to other use
 ## Falling
 ![](https://media.giphy.com/media/xUA7aQdu2mdFnOgptm/source.gif)
 
-About **two months** in, I started to realize something was amiss. I had added all the aforementioned features, plus some others, and written and refactored code multiple times. I had tested the backend through `rails c -s` and everything seemed to work. But then I thought, "What if I want the website to display...*in Spanish*?" (!!) So I looked at the "Digger Deeper" (yes, indeed) section of the Rails Guide and read about I18n...
+About **two months** in, I started to realize something was amiss. I had added all the aforementioned features, plus some others, and written and refactored code multiple times. I had tested the backend through `rails c -s` and everything seemed to work. But then I thought, "What if I want the website to display...*in Spanish*?" (!!) So I looked at the "Digging Deeper" (yes, indeed) section of the Rails Guide and read about I18n...
 
 ## Out of The Lodge
 ![](https://thegameofnerds.files.wordpress.com/2017/06/303-coop-sucked-in.gif?w=730)
