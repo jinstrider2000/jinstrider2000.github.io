@@ -33,7 +33,7 @@ I'm happy to say that the app is finished. I got *everything* I wanted into it, 
 ## Mr. Jackpots
 ![](https://i.redd.it/6mstt19eagzy.gif)
 
-I'm going to take a week off from coding before I move on to the Javascript portion of the curriculum. I need a break. I'm exhusted and grateful for the experience I had making this app, but I have, to use a gambling metaphor, blown my wad. I don't think I have the wherewithal to invest this much time and effort in a Flatiron project again, but I learned some valuable lessons on this project; lessons which, while they came at a high initial cost, I expect will pay greater dividends in my career. So, to quote Laura Palmer, "See you again in 25 years (hopefully sooner), meanwhile..."
+I'm going to take a week off from coding before I move on to the Javascript portion of the curriculum. I need a break. I'm exhusted and grateful for the experience I had making this app, but I have, to use a gambling metaphor, blown my wad. I don't think I have the wherewithal to invest this much time and effort into a Flatiron project again, but I learned some valuable lessons on this project; lessons which, while they came at a high initial cost, I expect will pay greater dividends in my career. So, to quote Laura Palmer, "See you again in 25 years (hopefully sooner). Meanwhile..."
 
 ![](https://78.media.tumblr.com/5a97c102f65f258fb8f9ca30eabef825/tumblr_oqsxdcaEGB1qbxh0uo1_500.gif)
 
