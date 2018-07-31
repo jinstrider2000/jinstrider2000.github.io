@@ -14,7 +14,7 @@ I had a revelation upon finishing my Rails with JQuery Frontend project for Flat
 
 Now, for those don't who know, Brian Wilson is the troubled genius behind the classic pop/rock band The Beach Boys.  To be clear, I don't intend to claim any genius with regards to my coding abilities.  However, like the Brian Wilson of legend, I find that I conceive overly ambitious projects which take [too long to complete](http://www.one-line-at-a-time.com/out_of_the_black_lodge), I am easily *consumed* with their minute details, and I strive to see my visions realized *without compromise*, sanity be damned.  This project wasn't an exception, and while I'm very gratified by the [end results](https://github.com/jinstrider2000/fitness-tracker-rails), I'm realizing that unchecked personal ambition is a recipe for exhaustion.  But I'll get to that later.
 
-## Don't Back Down
+## Don't Back Down (From That Wave)
 
 My project, *Fitness Tracker*, is something like a cross between Fitbit and Twitter.  You can log your daily food and exercise, connect to others on the platform via Twitter-like relationships, and see everyone's activity on a news feed.  The basics were all worked out in the project's previous iteration, and I simply had to redesign the back and front-ends to utilize JSON and Ajax.  However, mine was a problem of scale; the original, Rails-only *Fitness Tracker* was a gigantic project (for me), weighing in at approximately 2000 lines of original code (accounting for whitespace, and excluding migrations and Bootstrap elements that I copied and heavily modified for my purposes).  So, I had the daunting task of poring over that code again (essentially re-learning what I had made) and seeing how I could integrate the required changes, but I was up for it.
 
