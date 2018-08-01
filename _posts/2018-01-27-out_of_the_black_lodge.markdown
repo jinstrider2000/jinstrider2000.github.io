@@ -3,7 +3,7 @@ layout: post
 title:      "Out of the Black Lodge"
 date:       2018-01-27 09:43:14 -0500
 permalink:  out_of_the_black_lodge
-header-image: https://i.imgur.com/1GRTn1m.png
+header-img: https://i.imgur.com/1GRTn1m.png
 ---
 
 
