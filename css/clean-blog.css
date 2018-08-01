@@ -30,7 +30,6 @@ h6.powered_by {
 }
 a {
   color: #404040;
-  text-decoration: underline;
 }
 a:hover,
 a:focus {
@@ -43,6 +42,9 @@ a img:focus {
 blockquote {
   color: #808080;
   font-style: italic;
+}
+li a {
+  text-decoration: underline;
 }
 hr.small {
   max-width: 100px;
