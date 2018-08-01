@@ -46,6 +46,9 @@ blockquote {
 li a {
   text-decoration: underline;
 }
+li.next a, li.previous a {
+  text-decoration: none;
+}
 hr.small {
   max-width: 100px;
   margin: 15px auto;
