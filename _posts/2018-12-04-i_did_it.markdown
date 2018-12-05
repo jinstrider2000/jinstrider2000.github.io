@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "I DID IT!!"
+title:      "I did it!"
 date:       2018-12-04 21:00:38 +0000
 permalink:  i_did_it
 ---
@@ -10,7 +10,7 @@ permalink:  i_did_it
 IT'S OVER!! I FINISHED MY REACT PROJECT!!! I DEPLOYED IT ON HEROKU!!!! YEEEAAAAAAHHHHHHHH!!!!!!
 
 ## At a loss for words
-I'm very happy that I can now start my job search.   A lot has happened since I started this journey back into coding. I've had some hard personal difficulties/losses and one beautiful gain (my first child, due in June 2019!)... I'm just really greatful to God for His love, grace, mercy on my life, and to my wife, family and friends for their continued love and support throughout everything.
+I'm very happy that I can now start my job search.   A lot has happened since I started this journey back into coding. I've had some hard personal difficulties/losses, and one beautiful gain (our first child, due in June 2019!) I'm just really greatful to God for His love, grace, mercy on my life, and to my wife, family and friends for their continued love and support throughout everything.
 
 ## Wish me luck
 Our baby is coming soon! So wish me luck, or better yet, pray (if you do that kind of thing) that I find a good job before he/she comes along! Thanks for reading this, and I'll be back later.
