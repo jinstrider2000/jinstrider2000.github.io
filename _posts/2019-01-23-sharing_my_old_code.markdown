@@ -27,7 +27,8 @@ First, I found an assignment for my Systems Organization II class written in C w
   hspace   = "0"
   vspace   = "0"
   align    = "middle"
-></applet>
+>
+</applet>
 
 ## Lost and Found
 
