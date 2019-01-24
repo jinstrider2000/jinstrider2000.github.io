@@ -18,9 +18,16 @@ When I attended college, the introductory programming courses were in procedural
 
 First, I found an assignment for my Systems Organization II class written in C where we had to augment a "toy operating system", provided by our professor, with each successive assignment.  I chose to highlight the second assignment because on that one we added a "round robin" process scheduler and semaphoring, which was fairly complex for me to code, especially at the time.  Next, I found my final project for Systems Organization I -- a game written entirely in Assembly language!  Now I don't expect to find a job where Assembly will be useful, but being able to show that I wrote an entire (albeit small) game in it might be impressive to an employer -- like exhibiting an ERECTOR set you made, except that you smelted all the metal!<sup>1</sup>  Finally, I found an applet I made in Java for a 3-D Computer Graphics class.  It was of an animated, wireframe "Pinocchio" character that I had to render from scratch.  You can see that below:
 
-<applet>
-
-</applet>
+<applet
+  codebase = "."
+  code     = "HW6.class"
+  name     = "Pinocchio Wireframe"
+  width    = "500"
+  height   = "500"
+  hspace   = "0"
+  vspace   = "0"
+  align    = "middle"
+></applet>
 
 ## Lost and Found
 
