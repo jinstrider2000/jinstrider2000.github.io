@@ -16,19 +16,7 @@ In college, I was under the impression that if I had a computer science degree, 
 
 When I attended college, the introductory programming courses were in procedural languages (C and Pascal) and the later ones were in object oriented languages (Java and C++), and I'm finding that, at least for some of the more back-end oriented development positions, older languages like C, C++, Java and C# are useful to know.  Alas, my old code has found its place, and I've put up a bunch of samples in PDF form on [my LinkedIn profile](https://www.linkedin.com/in/efrain-perez-jr/).
 
-First, I found an assignment for my Systems Organization II class written in C where we had to augment a "toy operating system", provided by our professor, with each successive assignment.  I chose to highlight the second assignment because on that one we added a "round robin" process scheduler and semaphoring, which was fairly complex for me to code, especially at the time.  Next, I found my final project for Systems Organization I -- a game written entirely in Assembly language!  Now I don't expect to find a job where Assembly will be useful, but being able to show that I wrote an entire (albeit small) game in it might be impressive to an employer -- like exhibiting an ERECTOR set you made, except that you smelted all the metal!<sup>1</sup>  Finally, I found an applet I made in Java for a 3-D Computer Graphics class.  It was of an animated, wireframe "Pinocchio" character that I had to render from scratch.  You can see that below:
-
-<applet
-  codebase = "."
-  code     = "HW6.class"
-  name     = "Pinocchio Wireframe"
-  width    = "500"
-  height   = "500"
-  hspace   = "0"
-  vspace   = "0"
-  align    = "middle"
->
-</applet>
+First, I found an assignment for my Systems Organization II class written in C where we had to augment a "toy operating system", provided by our professor, with each successive assignment.  I chose to highlight the second assignment because on that one we added a "round robin" process scheduler and semaphoring, which was fairly complex for me to code, especially at the time.  Next, I found my final project for Systems Organization I -- a game written entirely in Assembly language!  Now I don't expect to find a job where Assembly will be useful, but being able to show that I wrote an entire (albeit small) game in it might be impressive to an employer -- like exhibiting an ERECTOR set you made, except that you smelted all the metal!<sup>1</sup>  Finally, I found a program I made in Java for a 3-D Computer Graphics class.  It was of an animated, wireframe "Pinocchio" character that I had to render from scratch.  Unfortunately, this ran in a legacy Java applet, so it won't run in most modern browsers, but trust me, it worked! 
 
 ## Lost and Found
 
