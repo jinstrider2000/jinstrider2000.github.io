@@ -43,11 +43,11 @@ blockquote {
   color: #808080;
   font-style: italic;
 }
-li a {
+article li a {
   text-decoration: underline;
 }
-li.next a, li.previous a {
-  text-decoration: none;
+article p img {
+  margin: 0 auto;
 }
 hr.small {
   max-width: 100px;
@@ -69,7 +69,6 @@ hr.small {
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  text-decoration: none;
   font-size: 12px;
   font-weight: 800;
   letter-spacing: 1px;
