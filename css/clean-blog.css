@@ -46,6 +46,9 @@ blockquote {
 article li a {
   text-decoration: underline;
 }
+article li.next a, article li.previous a {
+  text-decoration: none;
+}
 article p img {
   margin: 0 auto;
 }
